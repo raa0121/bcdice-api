@@ -16,4 +16,6 @@ group :development, :test do
   gem 'rubocop', '~> 1.15.0', require: false
   gem 'test-unit', '~>3.3'
   gem 'tomlrb'
+  gem 'rspec'
+  gem 'rspec-openapi'
 end
